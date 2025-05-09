@@ -12,5 +12,5 @@ A simple command-line calculator built in Python. Supports addition, subtraction
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/python-calculator.git
-   cd python-calculator
+   git clone https://github.com/UmairAhmed1310/MyPythonPortfolio/tree/main/calculator
+   cd calculator
