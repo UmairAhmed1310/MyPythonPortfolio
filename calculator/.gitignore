@@ -1,0 +1,13 @@
+# Python-specific ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.env
+*.log
+# Other ignores
+.DS_Store
+*.swp
+
